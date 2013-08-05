@@ -11,6 +11,8 @@
   as published by the Free Software Foundation.
 */
 
+  echo 'teting git commit';
+
   $_SERVER['SCRIPT_FILENAME'] = __FILE__;
 
   require('includes/application_top.php');
